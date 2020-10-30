@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <linearGradient id="b" x1="399.57" x2="399.57" y1="545.8" y2="517.8" gradientTransform="matrix(2.1429 0 0 2.1429 -826.36 -1107.5)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#3889e9" offset="0"/>
+   <stop stop-color="#5ea5fb" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient864" x1="1.1905" x2="15.742" y1="1.1905" y2="15.742" gradientTransform="matrix(3.7796 0 0 3.7796 2.3124e-6 -2.0803e-7)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#2aaeea" offset="0"/>
+   <stop stop-color="#818ce4" offset="1"/>
+  </linearGradient>
+ </defs>
+ <circle cx="32.02" cy="32.044" r="0" fill="url(#b)" stroke-width="1.5715"/>
+ <circle cx="-1019.3" cy="-1202" r="0" fill="#5e4aa6"/>
+ <rect x="4.4996" y="4.4996" width="55.001" height="55.001" ry="13" fill="url(#linearGradient864)" stroke-linecap="round" stroke-width="8.3159"/>
+ <path d="m44.422 33.33c-1.5446 0-3.0898 0.44429-4.2734 1.332l-30.045 22.535c2.0975 1.4495 4.6429 2.3027 7.3965 2.3027h29c7.202 0 13-5.798 13-13v-3.7344l-10.805-8.1035c-1.1836-0.88775-2.7288-1.332-4.2734-1.332z" fill="#406ccd" stroke-width=".92514"/>
+ <path d="m23.453 28.77c-1.0876 0-2.1745 0.31249-3.0078 0.9375l-15.945 11.959v4.834c0 7.202 5.798 13 13 13h29c4.7758 0 8.9219-2.5571 11.182-6.375l-31.221-23.418c-0.83332-0.62503-1.9203-0.93555-3.0078-0.93555v-0.001953z" fill="#13427e" stroke-width=".92514"/>
+ <g transform="translate(-.32193)" fill="#fff">
+  <g transform="translate(-116.05 -.5)">
+   <rect x="126" y="13" width="7" height="7" ry="1"/>
+   <rect x="126" y="23.667" width="7" height="7" ry="1"/>
+   <rect x="126" y="34.333" width="7" height="7" ry="1"/>
+   <rect x="126" y="45" width="7" height="7" ry="1"/>
+  </g>
+  <g transform="translate(-78.304 -.5)">
+   <rect x="126" y="13" width="7" height="7" ry="1"/>
+   <rect x="126" y="23.667" width="7" height="7" ry="1"/>
+   <rect x="126" y="34.333" width="7" height="7" ry="1"/>
+   <rect x="126" y="45" width="7" height="7" ry="1"/>
+  </g>
+ </g>
+</svg>
