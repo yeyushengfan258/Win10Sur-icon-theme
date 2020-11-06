@@ -14,7 +14,7 @@ SRC_DIR=$(cd $(dirname $0) && pwd)
 
 THEME_NAME=Win10Sur
 COLOR_VARIANTS=('' '-dark')
-THEME_VARIANTS=('' )
+THEME_VARIANTS=('' '-black')
 
 usage() {
   printf "%s\n" "Usage: $0 [OPTIONS...]"
