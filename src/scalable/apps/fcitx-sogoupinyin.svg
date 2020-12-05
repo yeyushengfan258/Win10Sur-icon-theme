@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="64"
+   version="1.1"
+   id="svg16"
+   sodipodi:docname="fcitx-sogoupinyin.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="962"
+     id="namedview18"
+     showgrid="false"
+     inkscape:zoom="6.2109375"
+     inkscape:cx="39.967592"
+     inkscape:cy="27.242526"
+     inkscape:window-x="0"
+     inkscape:window-y="36"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg16"
+     inkscape:document-rotation="0" />
+  <metadata
+     id="metadata2">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8">
+    <style
+       type="text/css"
+       id="style4" />
+    <style
+       type="text/css"
+       id="style6" />
+    <filter
+       id="filter917"
+       x="-.083994"
+       y="-.084006"
+       width="1.168"
+       height="1.168"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.22223482"
+         id="feGaussianBlur4" />
+    </filter>
+    <linearGradient
+       id="linearGradient1005"
+       x1=".73911"
+       x2="16.388"
+       y1="16.296"
+       y2=".64687"
+       gradientTransform="matrix(0.99997,0,0,0.99997,22.622572,-8.0932473)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#00a0ff"
+         offset="0"
+         id="stop7" />
+      <stop
+         stop-color="#37beff"
+         offset="1"
+         id="stop9" />
+    </linearGradient>
+  </defs>
+  <rect
+     style="fill:#f75314;fill-opacity:1;stroke-width:2.12399"
+     id="rect2106"
+     width="55"
+     height="55"
+     x="4.5"
+     y="4.5"
+     ry="13" />
+  <g
+     transform="matrix(3.779602,0,0,3.779602,-155.21692,-24.531885)"
+     fill="#5e4aa6"
+     stroke-width="0.26458"
+     id="g28">
+    <circle
+       cx="-330.35001"
+       cy="-328.38"
+       r="0"
+       id="circle20" />
+    <circle
+       cx="-312.10999"
+       cy="-326.25"
+       r="0"
+       id="circle22" />
+    <circle
+       cx="-306.01999"
+       cy="-333.07001"
+       r="0"
+       id="circle24" />
+    <circle
+       cx="-308.84"
+       cy="-326.01001"
+       r="0"
+       id="circle26" />
+  </g>
+  <path
+     d="m 44.245472,14.501021 2.184646,5.887471 c 0,0 -19.75185,-0.846606 -21.265758,4.890643 -1.788993,6.785386 16.49598,-1.397042 23.753126,4.888078 7.253436,6.285689 -0.996829,15.467795 -11.627287,17.760186 -10.632742,2.297522 -17.792681,1.399892 -17.792681,1.399892 l -2.182079,-6.887435 c 0,0 6.951291,1.397327 15.002875,-0.494565 8.04931,-1.89959 10.932613,-6.389734 2.485659,-5.887757 -8.445821,0.494851 -22.262589,2.488793 -22.462696,-5.986954 -0.19526,-8.483443 8.154779,-15.669042 31.903062,-15.569559 z"
+     fill="#ffffff"
+     p-id="29696"
+     id="path893"
+     style="stroke-width:0.285052" />
+</svg>
