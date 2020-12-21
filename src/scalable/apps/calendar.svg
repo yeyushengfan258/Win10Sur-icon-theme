@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Calendar"
+   width="64"
+   height="64"
+   enable-background="new 0 0 1024 1024"
+   image-rendering="optimizeSpeed"
+   version="1.1"
+   viewBox="0 0 64 64"
+   sodipodi:docname="calendar.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="998"
+     id="namedview39"
+     showgrid="false"
+     inkscape:zoom="4.5906698"
+     inkscape:cx="19.878795"
+     inkscape:cy="37.257672"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Calendar" />
+  <metadata
+     id="metadata2">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12">
+    <linearGradient
+       id="linearGradient873"
+       x1="-48.646"
+       x2="-32.772"
+       y1="-3.0915"
+       y2="9.574"
+       gradientTransform="matrix(3.7796,0,0,3.4646,272.66959,28.542)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#26b4eb"
+         offset="0"
+         id="stop4" />
+      <stop
+         stop-color="#017adc"
+         offset="1"
+         id="stop6" />
+    </linearGradient>
+    <filter
+       id="filter965"
+       x="-.18292"
+       y="-.08269"
+       width="1.3658"
+       height="1.1654"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.12760554"
+         id="feGaussianBlur9" />
+    </filter>
+    <filter
+       id="filter965-3"
+       x="-.18292"
+       y="-.08269"
+       width="1.3658"
+       height="1.1654"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.12760554"
+         id="feGaussianBlur864" />
+    </filter>
+    <linearGradient
+       id="linearGradient1046"
+       x1="1.1906"
+       x2="15.742"
+       y1="5.8404"
+       y2="16.139"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(3.779602,0,0,3.779602,-1.927066e-5,0.35590571)">
+      <stop
+         stop-color="#26b4eb"
+         offset="0"
+         id="stop867" />
+      <stop
+         stop-color="#017adc"
+         offset="1"
+         id="stop869" />
+    </linearGradient>
+  </defs>
+  <g
+     fill="#5e4aa6"
+     stroke-width="0.26458"
+     id="g884"
+     transform="matrix(3.779602,0,0,3.779602,-1.927066e-5,0.35590571)">
+    <circle
+       cx="-289.12"
+       cy="-329.66"
+       r="0"
+       id="circle876" />
+    <circle
+       cx="-301.97"
+       cy="-354.57001"
+       r="0"
+       id="circle878" />
+    <circle
+       cx="-11.062"
+       cy="-19.746"
+       r="0"
+       fill-rule="evenodd"
+       id="circle880" />
+    <circle
+       cx="-286.26001"
+       cy="-337.62"
+       r="0"
+       id="circle882" />
+  </g>
+  <rect
+     x="4.4995971"
+     y="6.3548903"
+     width="55.000767"
+     height="55.000767"
+     ry="12.999942"
+     fill="url(#linearGradient1046)"
+     stroke-linecap="round"
+     stroke-width="8.31588"
+     id="rect886"
+     style="fill:url(#linearGradient1046)" />
+  <path
+     d="m 17.500105,6.3559483 c -7.202051,0 -13.0000923,5.7980407 -13.0000923,13.0000927 v 3.074221 H 59.500403 v -3.074221 c 0,-7.202052 -5.798041,-13.0000927 -13.000092,-13.0000927 z"
+     fill="#056abe"
+     stroke-linecap="round"
+     stroke-width="8.31596"
+     id="path888" />
+  <g
+     transform="matrix(3.779602,0,0,3.779602,-5.4845997,0.35590571)"
+     id="g900">
+    <g
+       transform="translate(2.9021)"
+       id="g894">
+      <rect
+         transform="matrix(1.0256,0,0,0.7562,15.915,-25.364)"
+         x="-13.08"
+         y="35.909"
+         width="1.6743"
+         height="3.7035999"
+         ry="0.83713001"
+         filter="url(#filter965)"
+         opacity="0.3"
+         id="rect890"
+         style="filter:url(#filter965-3)" />
+      <rect
+         x="2.5174999"
+         y="0.60547"
+         width="1.6743"
+         height="3.7035999"
+         ry="0.83713001"
+         fill="#2ecef2"
+         id="rect892" />
+    </g>
+    <rect
+       transform="matrix(1.0256,0,0,0.7562,26.13,-25.364)"
+       x="-13.08"
+       y="35.909"
+       width="1.6743"
+       height="3.7035999"
+       ry="0.83713001"
+       filter="url(#filter965)"
+       opacity="0.3"
+       id="rect896"
+       style="filter:url(#filter965-3)" />
+    <rect
+       x="12.742"
+       y="0.60547"
+       width="1.6743"
+       height="3.7035999"
+       ry="0.83713001"
+       fill="#2ecef2"
+       id="rect898" />
+  </g>
+  <g
+     id="g1001"
+     transform="translate(0.12672555)">
+    <g
+       fill="#ffffff"
+       stroke-width="3.7796"
+       id="g989"
+       transform="translate(2.3137324)">
+      <rect
+         x="10.447"
+         y="47.502998"
+         width="6.9998002"
+         height="6.9998002"
+         id="rect983" />
+      <rect
+         x="22.561001"
+         y="47.502998"
+         width="6.9998002"
+         height="6.9998002"
+         id="rect985" />
+      <rect
+         x="34.674999"
+         y="47.502998"
+         width="6.9998002"
+         height="6.9998002"
+         id="rect987" />
+    </g>
+    <text
+       x="11.306794"
+       y="43.38129"
+       fill="#ffffff"
+       font-family="Hack"
+       font-size="19.331px"
+       font-weight="bold"
+       image-rendering="optimizeSpeed"
+       letter-spacing="0px"
+       stroke-width="0.48326"
+       word-spacing="0px"
+       style="line-height:1.25;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal"
+       xml:space="preserve"
+       id="text993"><tspan
+         x="11.306794"
+         y="43.38129"
+         fill="#ffffff"
+         font-family="Hack"
+         font-size="19.331px"
+         font-weight="bold"
+         stroke-width="0.48326"
+         style="font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal"
+         id="tspan991">15</tspan></text>
+  </g>
+</svg>
