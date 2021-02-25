@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <linearGradient id="linearGradient1448" x1="3.9687" x2="3.9687" y1="13.958" y2=".54085" gradientTransform="matrix(3.4646 0 0 3.4646 2.6661 2.6661)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#e6e6e6" offset="0"/>
+   <stop stop-color="#f0f0f0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <rect x="4.4995" y="4.4995" width="55.001" height="55.001" ry="13" fill="url(#linearGradient1448)" stroke-opacity=".95294" stroke-width=".31428"/>
+ <g transform="matrix(1.1795 0 0 1.1795 -5.7425 -5.7425)" stroke-width="1.3043">
+  <path d="m36.565 15.043a3.2609 3.2609 0 0 0-3.2609 3.2609v9.1304a3.2609 3.2609 0 0 0 3.2609 3.2609 3.2609 3.2609 0 0 0 3.2609-3.2609v-9.1304a3.2609 3.2609 0 0 0-3.2609-3.2609zm9.1304 9.1304a3.2609 3.2609 0 0 0-3.2609 3.2609v3.2609h3.2609a3.2609 3.2609 0 0 0 3.2609-3.2609 3.2609 3.2609 0 0 0-3.2609-3.2609z" fill="#2eb67d"/>
+  <path d="m48.957 36.565a3.2609 3.2609 0 0 0-3.2609-3.2609h-9.1304a3.2609 3.2609 0 0 0-3.2609 3.2609 3.2609 3.2609 0 0 0 3.2609 3.2609h9.1304a3.2609 3.2609 0 0 0 3.2609-3.2609zm-9.1304 9.1304a3.2609 3.2609 0 0 0-3.2609-3.2609h-3.2609v3.2609a3.2609 3.2609 0 0 0 3.2609 3.2609 3.2609 3.2609 0 0 0 3.2609-3.2609z" fill="#ecb22e"/>
+  <path d="m27.435 48.957a3.2609 3.2609 0 0 0 3.2609-3.2609v-9.1304a3.2609 3.2609 0 0 0-3.2609-3.2609 3.2609 3.2609 0 0 0-3.2609 3.2609v9.1304a3.2609 3.2609 0 0 0 3.2609 3.2609zm-9.1304-9.1304a3.2609 3.2609 0 0 0 3.2609-3.2609v-3.2609h-3.2609a3.2609 3.2609 0 0 0-3.2609 3.2609 3.2609 3.2609 0 0 0 3.2609 3.2609z" fill="#d6285e"/>
+  <path d="m15.043 27.435a3.2609 3.2609 0 0 0 3.2609 3.2609h9.1304a3.2609 3.2609 0 0 0 3.2609-3.2609 3.2609 3.2609 0 0 0-3.2609-3.2609h-9.1304a3.2609 3.2609 0 0 0-3.2609 3.2609zm9.1304-9.1304a3.2609 3.2609 0 0 0 3.2609 3.2609h3.2609v-3.2609a3.2609 3.2609 0 0 0-3.2609-3.2609 3.2609 3.2609 0 0 0-3.2609 3.2609z" fill="#36c5f0"/>
+ </g>
+ <g transform="translate(141.73 -9.9659e-5)" fill="#5e4aa6">
+  <g transform="matrix(3.7796,0,0,3.7796,-71.985,-28.735)" stroke-width=".26458">
+   <circle cx="-330.35" cy="-328.38" r="0"/>
+   <circle cx="-312.11" cy="-326.25" r="0"/>
+   <circle cx="-306.02" cy="-333.07" r="0"/>
+   <circle cx="-308.84" cy="-326.01" r="0"/>
+  </g>
+  <circle cx="-1328.7" cy="-1277.1" r="0"/>
+  <circle cx="-229.1" cy="-11.553" r="0" fill-rule="evenodd"/>
+ </g>
+</svg>
