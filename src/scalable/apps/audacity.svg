@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <filter id="c" x="-.035879" y="-.036122" width="1.0718" height="1.0722" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.41859"/>
+  </filter>
+  <linearGradient id="linearGradient1448" x1="3.9687" x2="3.9687" y1="15.338" y2=".54085" gradientTransform="matrix(3.4646 0 0 3.4646 2.6661 -61.334)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ffa255" offset="0"/>
+   <stop stop-color="#ff5655" offset="1"/>
+  </linearGradient>
+ </defs>
+ <rect transform="scale(1,-1)" x="4.4995" y="-59.5" width="55.001" height="55.001" ry="13" fill="url(#linearGradient1448)" stroke-opacity=".95294" stroke-width=".31428"/>
+ <g fill="#fff" fill-opacity=".937" shape-rendering="auto">
+  <path d="m4.5 28.93v0.5332c1.9427 1.2158 3.7887 3.3015 5.4961 7.2109 2.9604 6.7817 7.1894 9.8524 12.283 10.092 3.2952 0.15585 6.2647-1.2119 8.8281-3.2402 2.5634-2.0284 4.7315-4.7192 6.4531-7.2578 3.4557-5.0951 8.3147-7.3912 13.021-7.9434 3.2354-0.37958 6.3561 0.11096 8.918 1.0449v-0.46875c-2.6029-0.92473-5.7223-1.3987-8.9707-1.0176-4.8145 0.56484-9.8153 2.9294-13.346 8.1348-1.706 2.5157-3.8472 5.1754-6.3555 7.1602-2.5083 1.9847-5.3684 3.2861-8.5273 3.1367-4.9276-0.23158-8.9745-3.1336-11.893-9.8184-1.7949-4.1097-3.7948-6.3174-5.9082-7.5664z" color="#000000" color-rendering="auto" dominant-baseline="auto" image-rendering="auto" opacity=".35" solid-color="#000000" stop-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;font-variation-settings:normal;inline-size:0;isolation:auto;mix-blend-mode:normal;shape-margin:0;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+  <path d="m4.5 28.625v0.46484c1.145-0.19264 2.3188-0.24854 3.4805-0.0332 2.1571 0.39987 4.2481 1.6364 5.9414 4.3184 1.5684 2.483 3.2934 5.6331 6.002 8.082 2.7086 2.4489 6.4098 4.18 11.855 3.832 6.4943-0.41743 13.028-3.1312 16.396-9.4863 2.2956-4.0477 5.4537-8.0753 9.8535-9.0645 0.55666-0.11885 1.0038-0.12285 1.4707-0.14649v-0.44141c-0.50174 0.02389-0.98743 0.02873-1.5664 0.15234-4.608 1.036-7.831 5.1896-10.15 9.2793v0.0059c-3.2793 6.197-9.6323 8.8468-16.025 9.2578-5.3388 0.3411-8.8945-1.3367-11.531-3.7207-2.6368-2.384-4.3476-5.4926-5.9277-7.9941-1.7497-2.7713-3.9678-4.0967-6.2383-4.5176-1.1975-0.22199-2.3961-0.17689-3.5605 0.011719z" color="#000000" color-rendering="auto" dominant-baseline="auto" image-rendering="auto" opacity=".35" solid-color="#000000" stop-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;font-variation-settings:normal;inline-size:0;isolation:auto;mix-blend-mode:normal;shape-margin:0;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+  <path d="m4.5 38v0.48047c4.3122-1.7201 10.991-3.3044 16.553-1.6816 5.5553 1.6233 12.823 8.0668 26.502 6.5625 3.6641-0.40021 6.7728-2.5129 9.6777-6.4727 0.87757-1.1967 1.5633-2.048 2.2676-2.8125v-0.70508c-0.83837 0.84086-1.6299 1.8897-2.6289 3.252-2.8602 3.8986-5.8445 5.9121-9.3672 6.2969-13.524 1.4873-20.567-4.8666-26.324-6.5488-5.6613-1.6518-12.296-0.09851-16.68 1.6289z" color="#000000" color-rendering="auto" dominant-baseline="auto" image-rendering="auto" opacity=".35" solid-color="#000000" stop-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;font-variation-settings:normal;inline-size:0;isolation:auto;mix-blend-mode:normal;shape-margin:0;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+ </g>
+ <g transform="matrix(1.1111 0 0 1.1111 -3.5559 -3.5556)" fill="#fff" stroke-width=".9">
+  <path d="m32 17c-7.732 0-14 6.268-14 14v9c0 3.57 2.542 4.541 4 4.807v-13.807c0-5.54 4.46-10 10-10s10 4.46 10 10v13.812c1.458-0.268 4-1.242 4-4.812v-9c0-7.732-6.268-14-14-14z" fill="#000" filter="url(#c)" opacity=".25"/>
+  <path d="m32 17c-7.732 0-14 6.268-14 14v9c0 3.57 2.542 4.541 4 4.807v-13.807c0-5.54 4.46-10 10-10s10 4.46 10 10v13.812c1.458-0.268 4-1.242 4-4.812v-9c0-7.732-6.268-14-14-14z"/>
+  <path d="m22 33v14h5v-14zm15 0v14h5v-14z" opacity=".75"/>
+ </g>
+</svg>

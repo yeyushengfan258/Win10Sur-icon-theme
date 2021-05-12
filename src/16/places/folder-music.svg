@@ -1,21 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="16" height="16" version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
- <metadata>
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
+<svg width="16" height="16" version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
  <defs>
-  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#727272; } .ColorScheme-Highlight { color:#5294e2; }</style>
-  <linearGradient id="linearGradient864" x1="11.397" x2="126.08" y1="-52.462" y2="-229.84" gradientTransform="matrix(.077848 0 0 .077848 2.6314 19.022)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#00a1f4" offset="0"/>
-   <stop stop-color="#009afb" offset="1"/>
-  </linearGradient>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#363636; }</style>
  </defs>
- <path class="ColorScheme-Text" d="m22.253 2v8.275a1.982 1.982 0 0 0-1-0.275c-1.108 0-2 0.892-2 2s0.892 2 2 2 2-0.892 2-2v-6h7v2.275a1.982 1.982 0 0 0-1-0.275c-1.108 0-2 0.892-2 2s0.892 2 2 2 2-0.892 2-2v-8zm1 2h7v1h-7z" fill="currentColor"/>
- <path d="m8.1802 1.3372v9.6127s-3.1943-1.1796-4.6083 1.9271c0 0-0.43042 1.7565 1.9023 2.0574 2.3328 0.30091 3.7313-2.0309 3.7313-2.4383v-7.1473s4.0798 1.6362 1.8549 5.1867c0 0-0.13233 0.34842 0.23278 0.32164 0.36511-0.02677 2.6314-3.4278-0.35659-6.5518 0 0-1.6104-1.0971-1.7671-2.9703 0 0-0.40794-0.66797-0.98945 0.00175z" fill="url(#linearGradient864)" stroke="#007ac0" stroke-opacity=".97255" stroke-width=".077848px"/>
+ <path d="m13.374-1.5321e-7 -7.3774 1.9053c-0.55422 0.14836-1.0009 0.73837-1.0009 1.3116v9.0892c-0.562-0.294-1.2839-0.41299-2.0322-0.21874-1.3503 0.35052-2.1966 1.4838-1.9071 2.5303 0.28945 1.0465 1.6203 1.6309 2.9706 1.2804 1.0773-0.27964 1.82-1.071 1.9384-1.9053l0.031278-8.5892 7.0021-1.8741v6.7776c-0.562-0.294-1.2831-0.41299-2.0314-0.21874-1.3503 0.35052-2.1966 1.4838-1.9071 2.5303 0.28945 1.0465 1.6194 1.6309 2.9697 1.2804 1.0773-0.27964 1.82-1.071 1.9384-1.9053l0.031279-11.181c0-0.42993-0.26627-0.752-0.62557-0.81248z" style="fill:currentColor" class="ColorScheme-Text"/>
 </svg>
