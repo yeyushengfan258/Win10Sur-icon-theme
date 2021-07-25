@@ -1,7 +1,12 @@
-<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
- <g transform="matrix(1.04 0 0 1.04 -.339 -291.61)" stroke-width=".962" paint-order="markers stroke fill">
-  <rect x="1.852" y="281.92" width="13.229" height="13.229" rx="2.0349" ry="2.0349" fill="#2196f3"/>
- </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient2116" x1="59.5" x2="4.5" y1="4.5" y2="59.5" gradientTransform="scale(.26458)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#37beff" offset="0"/>
+   <stop stop-color="#00a0ff" offset="1"/>
+  </linearGradient>
+ </defs>
+ <rect x="1.1906" y="1.1906" width="14.552" height="14.552" ry="3.4395" fill="url(#linearGradient2116)" stroke-width=".56196"/>
  <g transform="matrix(.22689 0 0 .22689 3.4376 .95828)" fill="#fff">
   <g transform="matrix(.71829 0 0 .71829 2.7912 12.923)">
    <rect x=".52434" y="14.445" width="16.695" height="12.328" ry="2.6356"/>
