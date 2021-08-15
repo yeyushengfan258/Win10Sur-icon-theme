@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <linearGradient id="linearGradient1001" x1="429.07" x2="429.07" y1="14.723" y2="1034.7" gradientTransform="matrix(.063764 0 0 .063764 .70189 -1.5166)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#d7d7d7" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1003" x1="540" x2="540" y1="452.36" y2="632.36" gradientTransform="matrix(.064012 0 0 .064012 -1.4054 -2.7578)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#d7d7d7" offset="0"/>
+   <stop stop-color="#fff" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1010" x1="121.16" x2="121.16" y1="6.7334" y2="61.539" gradientTransform="translate(-88.764 -2.1867)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#111D2E" offset="0"/>
+   <stop stop-color="#051839" offset=".21248"/>
+   <stop stop-color="#0A1B48" offset=".40695"/>
+   <stop stop-color="#132E62" offset=".5811"/>
+   <stop stop-color="#144B7E" offset=".7376"/>
+   <stop stop-color="#136497" offset=".87279"/>
+   <stop stop-color="#1387B8" offset="1"/>
+  </linearGradient>
+ </defs>
+ <rect x="4.5" y="4.5" width="55" height="55" ry="13" fill="url(#linearGradient1010)" stroke-linecap="round" stroke-width="1.375"/>
+ <image x="3.0003" y="17.537" width="55" height="53" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADcAAAA1CAYAAADlE3NNAAAABHNCSVQICAgIfAhkiAAAAAlwSFlz AAAOxAAADsQBlSsOGwAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAObSURB VGiB7ZnRjqswDERdyv9/cUvvy7odhhknUIK0q2spCpRAfNaO7WQj/rDcfsn8r5EfP1N4zpYODNYN eiXcTVxzz/IyPV83JxwpCuZmfk95xRqK77EvJx0pCijbFLX1EGqh+ybg/KXiLWGwCfopPCAqnlC3 WAMuMI8EHGk5VJihpoi40zN0U7bQAu0ZH8iFxq9klOUU2D0+UNgjHIoDy+8m2AK/rQBHwKk1hkBz HIfLcU8YM8Xadd+AIy2n3HD+6bOxW6IkXCr/NM8TOn97y9lwnMtS+btobDUH94q1N+DziK3F3tej 3NJZjuFcvkOFOVjcYUxa9hXCele5JVtrojH5Dr6PgAuMi/hAZVN/hFPhXE5jKAZruWXEZ92xN6jC 4P1HGbHmnFtWCinrcaJWlY0KRqevORX+FVgFyEk8YhvmFSDPPWTNceLugQrzWwpCqRLLvRcR60V6 VCqrtUK+ipT8TZ7LAW0Az4DDSZW19uS1HnHjTq8tXQDhagRh9yhb7eNksYzyDRy7kUrWDOhEHSX0 gJV7u6NwLnioMgvrSFaeFeLrvW31jRacjELwTNWPMzQutVow3Kt9He8UeIf+FgfXikQIpqw0U8+l k9toOkCEys2qhcp7BdcTml3tiBabQwcSrBXVUYFzOd60Zuu2nINwCZfB1JYGw7+qFSugFhRatFxz DgBLnQhvNXZDtctWCZzXHSvMZycPARixdc0yoHAk5HoOq34V9m1BS6Is5FrLHZtuWZVQCpSrkFYF olwOFUaLqFOvvEbrymReRUsEZHdTVmRruSiGUc81BlCttFoPnFtbbrvSStQO7BE6WKj116xMWnAI qeDciRUnao6I7IaP2MI5sKock9JbfnHoV+Gd15Ry0VSaobJ3brcLysGlUuqjCIlrjidWk7PVlMX4 mLyCaYIxnANTruFyV1VlqDzFFrMJeQ+UgmNx+Ych1XusKEZAFzyct+wCQrnTvSu1VPh30ZEt5cBa +eowlINDqcK9StBuO1Llsq58dVQUnCqbVI+KqIqjB6z8/9q3UlkuQgOlYC47YrEqcJwirYCyNJ5l kkb4ngL41LXlpGfNOeE0UVXxrcQ8RFpuqUQl7co1q2J3qPSUX6gIK4gpImJbBCgw9d0h0mM5dWqV 9z0WVBXOJVKtKTe2yns9ZyIRFwHugcPxDKq+1VNQD5W9cPxeTx7E68vAIo7DqXfdmYm7Hy7fwPV+ 43Ko//Lb5R9CpINY0WarrgAAAABJRU5ErkJggg== "/>
+ <path d="m33.148 20.537c-6.2594 0-11.35 5.1016-11.35 11.371 0 0.05025-7.3e-4 0.10124 2e-3 0.14844l-7.291 10.592a8.3051 8.3051 0 0 0-0.33789-0.01172 8.3051 8.3051 0 0 0-4.5957 1.3945l-0.78711-0.32422-4.2891-1.7695v4.5684c0 6.2619 4.3841 11.457 10.262 12.709a8.3051 8.3051 0 0 0 2.8281-0.71094 8.3051 8.3051 0 0 0 0.0254-0.01367 8.3051 8.3051 0 0 0 4.8633-7.5488 8.3051 8.3051 0 0 0-0.01-0.21484l10.424-7.4492c0.0847 0.0028 0.17121 0.0039 0.25586 0.0039 6.2619 0 11.352-5.104 11.352-11.373 0-6.2696-5.0892-11.369-11.352-11.369v-2e-3zm0 3.7949c4.1712 0 7.5664 3.4011 7.5664 7.5762 0 4.1783-3.3952 7.5781-7.5664 7.5781-4.1686 0-7.5605-3.3998-7.5605-7.5781 0-4.175 3.392-7.5762 7.5605-7.5762zm0.0137 1.8711c-3.1348 0-5.6797 2.5501-5.6797 5.6934 0 3.1435 2.5449 5.6914 5.6797 5.6914 3.1374 0 5.6816-2.5479 5.6816-5.6914 0-3.1433-2.5443-5.6934-5.6816-5.6934zm-18.99 18.375a6.3635 6.3635 0 0 1 1.8516 0.27539c0.19422 0.05983 0.38661 0.12928 0.57812 0.20898 0.59192 0.24627 1.1343 0.57396 1.6152 0.9707 0.80149 0.66124 1.4323 1.5143 1.8379 2.502 0.15445 0.37605 0.26912 0.76214 0.34961 1.1523a6.3635 6.3635 0 0 1 0.0176 0.07813c0.0274 0.14185 0.0448 0.28491 0.0625 0.42773a6.3635 6.3635 0 0 1 0.0273 0.2207c0.0155 0.17592 0.0246 0.35101 0.0254 0.52734v2e-3a6.3635 6.3635 0 0 1-6.3652 6.3613 6.3635 6.3635 0 0 1-5.5859-3.3262l3.377 1.3926c2.1974 0.90626 4.6605 0.06066 5.8848-1.8848 9.3e-4 -0.0015 3e-3 -0.0024 4e-3 -0.0039 0.0144-0.02243 0.023-0.04953 0.0371-0.07227 0.12314-0.20363 0.24736-0.40639 0.3418-0.63281 5e-3 -0.01284 6e-3 -0.02621 0.0117-0.03906 0.12203-0.29287 0.21135-0.59095 0.27148-0.89062 3.8e-4 -0.0019-3.8e-4 -0.0039 0-0.0059 0.0619-0.31013 0.0908-0.62067 0.0898-0.92969-3e-3 -0.93075-0.28197-1.8376-0.79102-2.6035-5e-3 -0.0069-0.011-0.01262-0.0156-0.01953-0.1632-0.24277-0.34872-0.47123-0.55664-0.68164-0.16757-0.17058-0.3597-0.31916-0.55469-0.46484-0.0493-0.03681-0.0897-0.08212-0.14062-0.11719-1e-3 -8.06e-4 -3e-3 -0.0011-4e-3 -2e-3 -0.27471-0.18871-0.57124-0.35575-0.89258-0.48828l-3.7363-1.5391a6.3635 6.3635 0 0 1 2.2598-0.41797z" color="#000000" fill="url(#linearGradient1001)" stroke-width="1.0667"/>
+ <circle cx="33.143" cy="31.902" r="4.7751" fill="url(#linearGradient1003)" style="paint-order:stroke markers fill"/>
+</svg>

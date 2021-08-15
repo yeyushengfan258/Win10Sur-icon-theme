@@ -2,10 +2,10 @@
 <svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
  <defs>
   <linearGradient id="linearGradient2116-6" x1="25.774" x2="25.774" y1="7.0342" y2="57.034" gradientTransform="matrix(.26459 0 0 .26459 -.00010197 -.00010052)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#5a00a0" offset="0"/>
-   <stop stop-color="#8c05eb" offset="1"/>
+   <stop stop-color="#37beff" offset="0"/>
+   <stop stop-color="#00a0ff" offset="1"/>
   </linearGradient>
-  <filter id="filter5339-2" x="-.059873" y="-.060128" width="1.1197" height="1.1203" color-interpolation-filters="sRGB">
+  <filter id="filter5339-2" x="-.1891" y="-.079887" width="1.3782" height="1.1598" color-interpolation-filters="sRGB">
    <feGaussianBlur stdDeviation="0.21156371"/>
   </filter>
   <linearGradient id="linearGradient5324" x1="63.287" x2="65.972" y1="22.316" y2="22.316" gradientTransform="matrix(1.6734 0 0 1.6734 -112.17 -28.876)" gradientUnits="userSpaceOnUse">
@@ -13,12 +13,12 @@
    <stop stop-color="#fff" offset="1"/>
   </linearGradient>
   <linearGradient id="f-5" x1="86" x2="63" y1="19.458" y2="39" gradientTransform="matrix(.44275 0 0 .44275 -43.397 -5.6989)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#c3b4eb" offset="0"/>
-   <stop stop-color="#f0f0ff" offset="1"/>
+   <stop stop-color="#99daff" offset="0"/>
+   <stop stop-color="#eef9ff" offset="1"/>
   </linearGradient>
   <linearGradient id="d-39-1" x1="87" x2="63" y1="46" y2="24" gradientTransform="matrix(.44275 0 0 .44275 -43.397 -5.6989)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#b4afd7" offset="0"/>
-   <stop stop-color="#ebebfa" offset=".46709"/>
+   <stop stop-color="#cfefff" offset="0"/>
+   <stop stop-color="#eaf5fa" offset=".46709"/>
    <stop stop-color="#f0f5ff" offset="1"/>
   </linearGradient>
  </defs>
@@ -27,7 +27,6 @@
    <cc:Work rdf:about="">
     <dc:format>image/svg+xml</dc:format>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
    </cc:Work>
   </rdf:RDF>
  </metadata>

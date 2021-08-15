@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <linearGradient id="linearGradient1115" x1="-59.193" x2="-4.1931" y1="4.5" y2="59.5" gradientTransform="translate(63.693)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#259ded" offset="0"/>
+   <stop stop-color="#21a2e5" offset=".49224"/>
+   <stop stop-color="#0ee3aa" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g fill="#5e4aa6">
+  <circle cx="-1221.1" cy="-1276.3" r="0"/>
+  <circle cx="-121.55" cy="-10.813" r="0" fill-rule="evenodd"/>
+  <circle cx="-1250.2" cy="-1241.6" r="0"/>
+  <circle cx="-150.63" cy="23.857" r="0" fill-rule="evenodd"/>
+  <g transform="matrix(3.7796 0 0 3.7796 -1.5892 -.48379)" stroke-width=".26458">
+   <circle cx="-306.7" cy="-329.95" r="0"/>
+   <circle cx="-15.783" cy="4.8765" r="0" fill-rule="evenodd"/>
+   <circle cx="-285.93" cy="-348.86" r="0"/>
+   <circle cx="4.9855" cy="-14.033" r="0" fill-rule="evenodd"/>
+  </g>
+ </g>
+ <rect x="4.5" y="4.5" width="55" height="55" ry="13" fill="url(#linearGradient1115)" stroke-width=".47291"/>
+ <rect x="17" y="17" width="30" height="30" ry="4" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.5059" style="paint-order:stroke fill markers"/>
+ <path d="m20.848 41.393h11.739v2.3478h-11.739z" fill="#f9f9f9"/>
+ <g transform="matrix(.93692 0 0 .93692 -23.013 1.2779)" fill="#f9f9f9" stroke-width=".4551">
+  <path d="m55.255 31.112h-5.351l-0.84442 2.4177h-3.4399l4.9154-13.271h4.0799l4.9154 13.271h-3.4399zm-4.4976-2.4621h3.6354l-1.8133-5.2798z" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal"/>
+  <path d="m71.814 33.041q-0.94219 0.48887-1.9644 0.73776-1.0222 0.24888-2.1333 0.24888-3.3155 0-5.2532-1.8488-1.9377-1.8577-1.9377-5.031 0-3.1821 1.9377-5.031 1.9377-1.8577 5.2532-1.8577 1.1111 0 2.1333 0.24888t1.9644 0.73776v2.7466q-0.95108-0.64887-1.8755-0.95108t-1.9466-0.30221q-1.8311 0-2.8799 1.1733-1.0489 1.1733-1.0489 3.2355 0 2.0533 1.0489 3.2266t2.8799 1.1733q1.0222 0 1.9466-0.30221 0.92442-0.30221 1.8755-0.95108z" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal"/>
+ </g>
+</svg>
