@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient1448-3-2" x1="3.9687" x2="3.9687" y1="16.401" y2=".54085" gradientTransform="matrix(.91666 0 0 .91666 .70539 .70539)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#42464a" offset="0"/>
+   <stop stop-color="#6c7378" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient10111" x1="-6.0575" x2="42.077" y1="50" y2="50" gradientTransform="matrix(.29397 0 0 .29397 3.175 .76527)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#a1aab3" offset="0"/>
+   <stop stop-color="#818990" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <rect x="1.1905" y="1.1905" width="14.552" height="14.552" ry="3.4395" fill="url(#linearGradient1448-3-2)" stroke-opacity=".95294" stroke-width=".083152"/>
+ <path d="m1.2536 12.955c0.30305 1.5916 1.694 2.7879 3.3765 2.7879h7.6728c1.6824 0 3.0734-1.1963 3.3765-2.7879z" fill="url(#linearGradient10111)" stroke-linecap="round" stroke-linejoin="round" stroke-width=".26458" style="paint-order:stroke fill markers"/>
+</svg>
