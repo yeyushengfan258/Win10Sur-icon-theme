@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient2777" x1="4.3106" x2="14.36" y1="8.4665" y2="8.4665" gradientTransform="matrix(.93235 0 0 .93235 7.3758 -12.155)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#f55055" offset="0"/>
+   <stop stop-color="#eb1e32" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1954" x1="1.1906" x2="14.42" y1="8.4665" y2="8.4665" gradientTransform="translate(-17.454 -1.2025)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#f55055" offset="0"/>
+   <stop stop-color="#eb1e32" offset="1"/>
+  </linearGradient>
+  <filter id="filter2064" x="-.108" y="-.108" width="1.216" height="1.216" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.32297399"/>
+  </filter>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(17.454 1.2024)">
+  <rect x="-16.264" y="1.311" width="14.552" height="13.229" ry="3.435" fill="#960a14" stroke-linecap="round" stroke-width=".37813"/>
+  <rect x="-16.264" y="-.011908" width="13.229" height="14.552" ry="3.4395" fill="url(#linearGradient1954)" stroke-linecap="round" stroke-width=".37813"/>
+  <g fill="#fff" stroke-width=".87109">
+   <rect x="-14.869" y="2.8679" width="10.44" height="1.4654" ry=".24423"/>
+   <rect x="-14.869" y="5.7983" width="4.7848" height="5.6172" ry=".48846"/>
+   <rect x="-9.2145" y="5.7983" width="4.7848" height="1.2211" ry=".24423"/>
+   <rect x="-9.2145" y="6.7753" width="4.7848" height="1.9538" ry=".24423" opacity=".8"/>
+   <rect x="-9.2145" y="7.9963" width="4.7848" height="1.9538" ry=".24423" opacity=".6"/>
+  </g>
+ </g>
+ <image x="2.9104" y="2.9104" width="14.023" height="14.023" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADUAAAA1CAYAAADh5qNwAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAA GXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAABOdJREFUaIHVmut2KiEMhfd4a63a 6/u/5KnVVms9P8gu2wgDzqhtsxZrGJ1BPhJICDboJ03hXmVfuD+bjDq807h6I5/5eyB03hcvZwVs G9m2ZxsAg5biob6s7KS+lytwRrBaTakmBgCGVkYAxnZlGSJqix3fWdkC+LTrzuqEpPSGq4FiBwlD kBtXJvb5EFFbhCLIB4CNXd+tTtAdzqS1NijVDmEmAG4BTAHcWZnaZzeVUGsrKytrAyQctdYZrKQp zpGxdXwGYG5lYfdTRE2N5B12bI9oahsDWANYWnm168qgqbXOYCkoaojmNrGOzwHcA3iw6yIDlFv9 PNjMyq28/2bA6AOW0xTnEIHuATwCeLLrAsH0UvMotaIq2A2iCdNsdVBUOoF5KHZKNXQP4NnKk91T Q97cSs53gLhKjqXoqslndSA4P0+GUrMbWafnCJp5BvBiQNSQmptvIyfeNXjfpj7N+7NqSWmKZjcz iCdEDc0EyEcSJVEtqKlqO/Rp6stOdtCEUl/ElW6OsCg8Iq2hWhgv+g5/jx3m8r/BoQ+jGVbJUH5I zW6BoJ0Xu84RQMfoB6SSixcJsEUA8465KB5qjKCRBwSgZ8SFgUC5Fa6LeDAKzY8ao1OuAtNOqqbu EB1rmw86h3jTT/0+XUaVqClpo1NEP3IJDXlJzWn2ga4jta1JysDVqalULHdpUWthjKnRhncfWfGa YoNtXv6SUupHNZSfU+rlvT+5pKR2BRptdJ5TQymXnkcp8Xs3wuWcdVIUShtMbcuvKbkwqkq8Sq9l arXSqR8eqpT1uZb06oPfoWqS5CfBUhmo6r4olAL9FJgfXMZ9Clbs08A1pDGXBpLXgGP7CsRI/aQB 9prSsL9ThNxTtB9Mp2lAWyUKxdFhGot5uWtAeWvR3CAzTCdF6ZQvHOfmPpDegV5CCLVFgGFO0G89 in1IzSk2uERIWfmROjeYbtU1haZQJ1mL5ihoghtEKObldPtxrp2viq54hOpkekCE0pVnizBCrzjc ghCqb45CRbWkYJpfP9nsfTZJTXCJEPanQn+/JTkFbu/qqSiG8d5Q6tVww5bv2EAuuMyB5DK0Wlet aOSg6bHUiUgnKJ8h9XX/XK2GtC01sTZHrwlNwmtbWWnTFFzDPkxJmY2/1wyrauEDYTHigcA7Yn6P lqEHdwpZBCuZXy4m9MWbUs6c1F38k7Ky75m95ebQ59erwHKnHnxBTx3U268RRpkHb/4k0Y+yJid5 PkU/tLV3eBixQ3AlI7umZGXXzxRg26Gbgvm5QChNpRFKV0ofKDP00YhlZ89PcehoO4OVThJTYOr1 ueTTlykU5F3VFOM6DX8GAqijPrM228A0z76vgeKDDY4n/QbHp/L+vAo4nl+fUmebgwQQZY52jQFR wwCwr/3LQcrPNNaxkg9LLdE+jizFlQrm3YO2twPQnPqPFw/HDuUS/fpsm9+r2YjOEayBYKr5g5Cq 5KdKkjrO9CW1Dc913mvVRzU+sclpoH9XqDa/nNSELbXBqC5Km5ZnplZnalpPRRp+cW7ps99qA6PJ LRD6nd1nXQKqryjYFtEfae5iYt8vEUOs7xzGb4QCItin1Am1RoDaIwC9IWrtC/i9UMCxKepejwuc Zr++F5bfkjNvE39woatf6j+E+78ABeRP8oHE/yz+ChRQ7uv3KvgfnP58sn2MP1UAAAAASUVORK5C YII= "/>
+ <g transform="translate(-5.5404 -.17328)">
+  <circle cx="14.398" cy="8.3244" r="3.5886" fill="#fff" filter="url(#filter2064)" opacity=".5" stroke-linecap="round" stroke-width=".12238"/>
+  <rect transform="rotate(45)" x="19.589" y="-4.8939" width="5.9938" height="1.2667" ry=".63335" fill="#960a14" stroke-width=".93238"/>
+  <circle transform="rotate(45)" cx="16.08" cy="-4.2607" r="4.068" fill="none" stroke="url(#linearGradient2777)" stroke-linecap="round" stroke-width="1.3516"/>
+ </g>
+</svg>
