@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient1858" x1="32.673" x2="32.673" y1="8.4539" y2="55.299" gradientTransform="scale(.26458)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#78c5fc" offset="0"/>
+   <stop stop-color="#2d84c1" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1058" x1="4.6807" x2="4.6807" y1="1.852" y2="15.764" gradientTransform="scale(.26458)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fefefe" offset="0"/>
+   <stop stop-color="#e3e3e3" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <path d="m4.6301 1.1906c-1.9055 0-3.4395 1.534-3.4395 3.4395v7.6728c0 1.9055 1.534 3.4395 3.4395 3.4395h7.6728c1.9055 0 3.4395-1.534 3.4395-3.4395v-7.6728c0-1.9055-1.534-3.4395-3.4395-3.4395z" fill="url(#linearGradient1058)" stroke-width=".26458" style="paint-order:stroke fill markers"/>
+ <path d="m4.6807 1.852c-1.5671 0-2.8286 1.2616-2.8286 2.8286v7.5714c0 1.5671 1.2616 2.8286 2.8286 2.8286h7.5714c1.5671 0 2.8286-1.2616 2.8286-2.8286v-7.5714c0-1.5671-1.2616-2.8286-2.8286-2.8286z" fill="url(#linearGradient1858)" stroke-width=".26458" style="paint-order:stroke fill markers"/>
+ <text x="2.7840967" y="11.217505" fill="#ffffff" font-family="sans-serif" font-size="7.6968px" stroke-width=".19242" style="line-height:1.25" xml:space="preserve"><tspan x="2.7840967" y="11.217505" fill="#ffffff" stroke-width=".19242">&lt;/&gt;</tspan></text>
+</svg>
