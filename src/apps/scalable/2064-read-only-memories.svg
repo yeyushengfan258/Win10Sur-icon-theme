@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <linearGradient id="linearGradient1115" x1="-29.448" x2="-29.448" y1="4.6371" y2="59.494" gradientTransform="translate(63.693)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#37beff" offset="0"/>
+   <stop stop-color="#00a0ff" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g fill="#5e4aa6">
+  <circle cx="-1403.7" cy="-1237.8" r="0"/>
+  <circle cx="-1334.7" cy="-1229.7" r="0"/>
+  <circle cx="-1311.7" cy="-1255.5" r="0"/>
+  <circle cx="-1322.4" cy="-1228.8" r="0"/>
+ </g>
+ <rect x="4.5" y="4.5" width="55" height="55" ry="13" fill="url(#linearGradient1115)" image-rendering="optimizeSpeed" stroke-width=".47291"/>
+ <g fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.2702">
+  <path d="m21.325 42.067h20.283c3.2026-2.1351 0-4.2702 0-4.2702h-2.1351" stroke="#fff"/>
+  <path d="m9.5817 34.594h8.5403" stroke="#f8bfd5"/>
+  <path d="m45.878 34.594h8.5403" stroke="#f8bfd5"/>
+ </g>
+ <path d="m21.325 29.256v-9.6078" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.2702"/>
+ <path d="m40.54 29.256v-9.6078" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.2702"/>
+ <path d="m17.5 4.5c-0.28975 0-0.57251 0.024486-0.85742 0.042969a14.946 10.675 0 0 0 14.289 7.6328 14.946 10.675 0 0 0 14.326-7.6758h-2.3516a12.81 8.5403 0 0 1-11.975 5.541 12.81 8.5403 0 0 1-11.977-5.541h-1.4551zm11.297 0v0.20312c0 1.1828 0.95193 2.1348 2.1348 2.1348 1.1828 0 2.1367-0.95193 2.1367-2.1348v-0.20312h-4.2715z" fill="#fff" stroke-width="1.0675"/>
+</svg>
