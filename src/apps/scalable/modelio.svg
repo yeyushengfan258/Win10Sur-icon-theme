@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="linearGradient1448" x1="3.9687" x2="3.9687" y1="16.323" y2="2.5603" gradientTransform="matrix(3.4646 0 0 3.4646 2.6655 2.6665)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#f50f2d" offset="0"/>
+   <stop stop-color="#ff4b00" offset="1"/>
+  </linearGradient>
+ </defs>
+ <rect x="4.4995" y="4.4995" width="55.001" height="55.001" ry="13" fill="url(#linearGradient1448)" stroke-opacity=".95294" stroke-width=".31428"/>
+ <g transform="translate(.13143 -2.866)" fill="#fbfbfb" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+  <rect x="18.126" y="18.866" width="5" height="32" ry="2.6206" stroke-width="2.1274" style="paint-order:stroke fill markers"/>
+  <rect x="40.611" y="18.866" width="5" height="32" ry="2.6206" stroke-width="2.1274" style="paint-order:stroke fill markers"/>
+  <rect x="29.369" y="26.866" width="5" height="24" ry="2.5" opacity=".5" stroke-width="1.8424" style="paint-order:stroke fill markers"/>
+ </g>
+</svg>
