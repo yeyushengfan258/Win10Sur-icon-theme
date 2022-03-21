@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="linearGradient1858" x1="6.9599" x2="57" y1="7.0523" y2="57" gradientTransform="scale(.26458)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#138fdc" offset="0"/>
+   <stop stop-color="#076dbf" offset="1"/>
+  </linearGradient>
+  <filter id="filter2146-7" x="-.087891" y="-.065407" width="1.1758" height="1.1308" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="1.171875"/>
+  </filter>
+  <linearGradient id="linearGradient1419" x1="30.865" x2="30.865" y1="-23.355" y2="-65.948" gradientTransform="matrix(.21765 0 0 .21549 1.7486 16.367)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#3cc85a" offset="0"/>
+   <stop stop-color="#50eb50" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path d="m4.6301 1.1906c-1.9055 0-3.4395 1.534-3.4395 3.4395v7.6728c0 1.9055 1.534 3.4395 3.4395 3.4395h7.6728c1.9055 0 3.4395-1.534 3.4395-3.4395v-7.6728c0-1.9055-1.534-3.4395-3.4395-3.4395z" fill="#b9b9b9" fill-opacity=".63922" stroke-width=".26458" style="paint-order:stroke fill markers"/>
+ <path d="m4.6807 1.852c-1.5671 0-2.8286 1.2616-2.8286 2.8286v7.5714c0 1.5671 1.2616 2.8286 2.8286 2.8286h7.5714c1.5671 0 2.8286-1.2616 2.8286-2.8286v-7.5714c0-1.5671-1.2616-2.8286-2.8286-2.8286z" fill="url(#linearGradient1858)" stroke-width=".26458" style="paint-order:stroke fill markers"/>
+ <path transform="scale(.26458)" d="m18.666 7c2.4641 13.076 13.973 23.176 27.703 23.176 3.7739 0 7.355-0.90289 10.629-2.3672v-10.117c0-5.923-4.7669-10.691-10.689-10.691h-27.643z" fill="#fff" opacity=".2"/>
+ <path transform="matrix(.21765 0 0 .21765 1.5017 1.0358)" d="m25 4.3146v26h-9l16 17 16-17h-9v-26z" filter="url(#filter2146-7)" opacity=".3" stroke-linecap="round" stroke-width="1.9901"/>
+ <path d="m6.9428 1.9748v5.6588h-1.9588l3.4824 3.7001 3.4824-3.7001h-1.9588v-5.6588z" fill="url(#linearGradient1419)" stroke-linecap="round" stroke-width=".43314"/>
+</svg>

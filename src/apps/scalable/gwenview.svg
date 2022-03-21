@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient864" x1="1.1905" x2="15.742" y1="1.1905" y2="15.742" gradientTransform="translate(0,-7.12e-5)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#595959" offset="0"/>
+   <stop stop-color="#161616" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient12445" x1="6.3494" x2="14.986" y1="6.2563" y2="14.457" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#2cadea" offset="0"/>
+   <stop stop-color="#9f84e3" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient26009" x1="11.543" x2="14.986" y1="7.7622" y2="14.457" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#0475d1" offset="0"/>
+   <stop stop-color="#3d4e9c" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <rect x="1.1905" y="1.1904" width="14.552" height="14.552" ry="3.4395" fill="url(#linearGradient864)" stroke-linecap="round" stroke-width="2.2002"/>
+ <path d="m11.543 7.7622c-0.38258 0-0.76517 0.14661-1.0583 0.43976l-7.2471 7.2471c0.42544 0.18767 0.89574 0.29352 1.3921 0.29352h7.6728c1.9055 0 3.4395-1.534 3.4395-3.4395v-0.96013l-3.1408-3.1408c-0.29315-0.29315-0.67574-0.43976-1.0583-0.43976z" fill="url(#linearGradient26009)" stroke-width=".26458"/>
+ <path d="m6.3494 6.2562c-0.26937 0-0.53876 0.10314-0.74516 0.30953l-4.4137 4.4137v1.3234c0 1.9055 1.534 3.4395 3.4395 3.4395h7.6728c1.0881 0 2.0536-0.50122 2.6831-1.2852l-7.8914-7.8914c-0.2064-0.2064-0.47579-0.30953-0.74516-0.30953z" fill="url(#linearGradient12445)" stroke-width=".26458"/>
+ <circle cx="11.112" cy="4.4977" r="1.3229" fill="#fff"/>
+</svg>
